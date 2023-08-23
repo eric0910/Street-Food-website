@@ -10,13 +10,15 @@ The website is built using HTML and styled using CSS.
 HTML 5 is the version used.
 # pre-requisites.
 To use the website you should have at least a free space in your computer.
-Ensure your browser is effective to display the website well.
+Ensure your browser is effective in displaying the website well.
 # Installation.
 Sign up to your GitHub account.
-If you don't have a GitHUb account creat one.
+If you don't have a GitHub account create one.
 Search eric0910.
-Click on the Street-Food-website.
+Click on the Street-Food website.
 Deploy and the website will open in your browser.
+# Screenshot.
+![Screenshot](https://github.com/eric0910/Street-Food-website/blob/main/StreetFood%20(1).png)
 # Lincense.
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
